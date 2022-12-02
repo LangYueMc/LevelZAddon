@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.levelz_addon.option.rareCandyIgnoreMaxLevel": "奇异糖果无视总最大等级",
+  "text.autoconfig.levelz_addon.title": "LevelZ 扩展配置",
+  "text.autoconfig.levelz_addon.option.enableLootTable": "LevelZ 战利品表",
+  "text.autoconfig.levelz_addon.option.bonusRollsWithLuck": "战利品受幸运值影响",
+  "text.autoconfig.levelz_addon.option.findRareCandyChance": "箱子里找到奇异糖果的几率",
+  "text.autoconfig.levelz_addon.option.findStrangePotionChance": "箱子里找到奇异药水的几率",
+  "text.autoconfig.levelz_addon.option.allowedChests": "允许的战利品宝箱"
+}

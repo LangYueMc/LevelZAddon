@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.levelz_addon.option.rareCandyIgnoreMaxLevel": "Rare Candy Ignore Max Level",
+  "text.autoconfig.levelz_addon.title": "LevelZ Addon Config",
+  "text.autoconfig.levelz_addon.option.enableLootTable": "Extra LevelZ loot",
+  "text.autoconfig.levelz_addon.option.bonusRollsWithLuck": "Bonus Rolls With Luck",
+  "text.autoconfig.levelz_addon.option.findRareCandyChance": "Find Rare Candy Chance",
+  "text.autoconfig.levelz_addon.option.findStrangePotionChance": "Find Strange Potion Chance",
+  "text.autoconfig.levelz_addon.option.allowedChests": "Allowed Chests"
+}

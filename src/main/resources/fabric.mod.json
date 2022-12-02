@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "levelz_addon",
+  "version": "${version}",
+  "name": "LevelZAddon",
+  "description": "A mod addon for the LevelZ mod.\nAllows rare candies to break the max level limit. And you can find rare candies in loot chests.",
+  "authors": [
+    "LangYue"
+  ],
+  "contact": {
+    "homepage": "https://github.com/LangYueMc/LevelZAddon",
+    "sources": "https://github.com/LangYueMc/LevelZAddon",
+    "issues": "https://github.com/LangYueMc/LevelZAddon/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/levelz_addon/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.langyue.levelzaddon.LevelZAddon"
+    ],
+    "modmenu": [
+      "io.github.langyue.levelzaddon.config.ModMenuIntegration"
+    ]
+  },
+  "custom": {
+    "modmenu": {
+      "parent": {
+        "id": "levelz"
+      }
+    }
+  },
+  "mixins": [
+    "levelz-addon.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "fabric": "*",
+    "minecraft": "*",
+    "levelz": ">=1.3.3"
+  }
+}
