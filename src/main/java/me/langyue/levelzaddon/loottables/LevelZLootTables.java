@@ -1,6 +1,6 @@
-package io.github.langyue.levelzaddon.loottables;
+package me.langyue.levelzaddon.loottables;
 
-import io.github.langyue.levelzaddon.LevelZAddon;
+import me.langyue.levelzaddon.LevelZAddon;
 import net.fabricmc.fabric.api.loot.v2.LootTableEvents;
 import net.levelz.init.ItemInit;
 import net.minecraft.item.Item;

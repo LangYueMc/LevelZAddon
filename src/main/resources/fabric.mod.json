@@ -17,10 +17,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.langyue.levelzaddon.LevelZAddon"
+      "me.langyue.levelzaddon.LevelZAddon"
     ],
     "modmenu": [
-      "io.github.langyue.levelzaddon.config.ModMenuIntegration"
+      "me.langyue.levelzaddon.config.ModMenuIntegration"
     ]
   },
   "custom": {
@@ -34,7 +34,7 @@
     "levelz-addon.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.14.10",
+    "fabricloader": "*",
     "fabric": "*",
     "minecraft": "*",
     "levelz": ">=1.3.3"

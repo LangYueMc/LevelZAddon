@@ -1,4 +1,4 @@
-package io.github.langyue.levelzaddon.mixin;
+package me.langyue.levelzaddon.mixin;
 
 import net.levelz.stats.PlayerStatsManager;
 import org.spongepowered.asm.mixin.Mixin;

@@ -1,7 +1,7 @@
-package io.github.langyue.levelzaddon;
+package me.langyue.levelzaddon;
 
-import io.github.langyue.levelzaddon.config.LevelZAddonConfig;
-import io.github.langyue.levelzaddon.loottables.LevelZLootTables;
+import me.langyue.levelzaddon.config.LevelZAddonConfig;
+import me.langyue.levelzaddon.loottables.LevelZLootTables;
 import net.fabricmc.api.ModInitializer;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

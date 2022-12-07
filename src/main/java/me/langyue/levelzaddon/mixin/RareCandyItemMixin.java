@@ -1,6 +1,6 @@
-package io.github.langyue.levelzaddon.mixin;
+package me.langyue.levelzaddon.mixin;
 
-import io.github.langyue.levelzaddon.LevelZAddon;
+import me.langyue.levelzaddon.LevelZAddon;
 import net.levelz.access.PlayerStatsManagerAccess;
 import net.levelz.init.CriteriaInit;
 import net.levelz.item.RareCandyItem;

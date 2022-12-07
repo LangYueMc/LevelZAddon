@@ -1,4 +1,4 @@
-package io.github.langyue.levelzaddon.config;
+package me.langyue.levelzaddon.config;
 
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;

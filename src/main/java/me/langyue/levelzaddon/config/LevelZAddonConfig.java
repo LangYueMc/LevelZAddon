@@ -1,6 +1,6 @@
-package io.github.langyue.levelzaddon.config;
+package me.langyue.levelzaddon.config;
 
-import io.github.langyue.levelzaddon.LevelZAddon;
+import me.langyue.levelzaddon.LevelZAddon;
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.ConfigData;
 import me.shedaniel.autoconfig.annotation.Config;
